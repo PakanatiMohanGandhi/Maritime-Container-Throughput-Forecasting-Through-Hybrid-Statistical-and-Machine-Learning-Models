@@ -89,11 +89,6 @@ Where:
 
 ---
 
-## 🏗️ Repository Structure
-├── Maritime_Forecasting_Thesis_Notebook.ipynb # Full implementation
-├── README.md # Project documentation
-├── requirements.txt # Python dependencies
-
 ---
 
 ## 📈 Key Findings

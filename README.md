@@ -126,8 +126,6 @@ Approximate model performance comparison:
 - scikit-learn
 - xgboost
 
-### Clone Repository
-git clone https://github.com/yourusername/maritime-throughput-forecasting.git
 
 cd maritime-throughput-forecasting
 
